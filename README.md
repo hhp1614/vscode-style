@@ -6,9 +6,9 @@
 
 也可以指定版本号：`https://cdn.jsdelivr.net/gh/hhp1614/vscode-style@1.0.0/index.css`
 
-```json
+```json5
 // 插件加载的 CSS 文件地址
 "vscode_custom_css.imports": [
-    https://cdn.jsdelivr.net/gh/hhp1614/vscode-style/index.css
+    "https://cdn.jsdelivr.net/gh/hhp1614/vscode-style/index.css"
 ],
 ```
