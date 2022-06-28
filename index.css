@@ -1,8 +1,8 @@
 @import url(./base.css);
 
 * {
-    text-shadow: 0 0 var(--hhp-shadow) !important;
+    text-shadow: 0 0 1.3px !important;
 }
 *:not(i):not([class*='icon']) {
-    font-family: var(--hhp-font) !important;
+    font-family: Sarasa Fixed SC !important;
 }
