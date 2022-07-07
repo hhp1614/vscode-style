@@ -1,6 +1,6 @@
 * {
-    text-shadow: 0 0 1.4px !important;
+    text-shadow: 0 0 1.2px !important;
 }
 *:not(i):not([class*='icon']) {
-    font-family: JetBrains Mono NL, Sarasa Gothic SC !important;
+    font-family: hhp, Sarasa Fixed SC !important;
 }
