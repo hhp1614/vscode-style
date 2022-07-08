@@ -1,9 +1,9 @@
 /* ===== 全局字体渲染 ===== */
 * {
-    font-family: hhp, Sarasa Fixed SC !important;
+    font-family: Fira Code, 萍方-简 !important;
     text-shadow: 0 0 1.2px !important;
 }
 html,
 body {
-    font-size: 15px !important;
+    font-size: 14px !important;
 }
