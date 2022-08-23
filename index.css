@@ -1,6 +1,6 @@
 /* vscode 字体渲染 */
 :root {
-    --hhp-font: Sarasa Fixed SC;
+    --hhp-font: Maple Mono SC NF;
     --hhp-shadow: 1.2px;
 }
 *:not(i):not([class*='icon']) {
