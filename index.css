@@ -1,7 +1,7 @@
 /* vscode 字体渲染 */
 :root {
     --hhp-font: Maple Mono SC NF;
-    --hhp-shadow: 1.2px;
+    --hhp-shadow: 1px;
 }
 *:not(i):not([class*='icon']) {
     font-family: var(--hhp-font) !important;
