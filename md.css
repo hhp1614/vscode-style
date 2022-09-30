@@ -1,8 +1,8 @@
 /* markdown 字体渲染 */
 :root {
     --hhp-font: Sarasa Mono SC;
-    --hhp-shadow: 1px;
-    --hhp-size: 15px;
+    --hhp-shadow: 1.2px;
+    --hhp-size: 17px;
 }
 html,
 body {
