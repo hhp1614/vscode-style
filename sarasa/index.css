@@ -1,11 +1,11 @@
 /* vscode 字体渲染 */
-:root {
-    --hhp-font: Sarasa Fixed SC;
-    --hhp-shadow: 1.2px;
+* {
+    -webkit-text-stroke: 0.012px !important;
+    text-shadow: 0 0 1.2px !important;
 }
-*:not(i):not([class*='icon']) {
-    font-family: var(--hhp-font) !important;
-    text-shadow: 0 0 var(--hhp-shadow) !important;
+.windows,
+.windows:lang(zh-Hans) {
+    font-family: Sarasa Fixed SC;
 }
 /* .windows {
     font-family: var(--hhp-font);
