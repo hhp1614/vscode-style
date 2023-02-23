@@ -1,12 +1,8 @@
 /* markdown 字体渲染 */
 :root {
-    --hhp-font: Sarasa Fixed SC;
+    --hhp-font: Maple UI;
+    --hhp-code: Maple Mono, var(--hhp-font);
     --hhp-shadow: 1.2px;
-    --hhp-size: 18px;
-}
-html,
-body {
-    font-size: var(--hhp-size) !important;
 }
 * {
     font-family: var(--hhp-font) !important;
@@ -16,5 +12,5 @@ pre,
 code,
 pre *,
 code * {
-    font-family: var(--hhp-font) !important;
+    font-family: var(--hhp-code) !important;
 }
