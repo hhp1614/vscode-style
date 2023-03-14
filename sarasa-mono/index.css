@@ -5,8 +5,5 @@
 }
 .windows,
 .windows:lang(zh-Hans) {
-    font-family: Sarasa Fixed SC;
+    font-family: Sarasa Mono SC;
 }
-/* .windows {
-    font-family: var(--hhp-font);
-} */
