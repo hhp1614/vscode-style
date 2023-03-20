@@ -1,6 +1,5 @@
 /* vscode 字体渲染 */
 * {
-    -webkit-text-stroke: 0.012px !important;
     text-shadow: 0 0 1.2px !important;
 }
 .windows,
