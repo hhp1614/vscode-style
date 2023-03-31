@@ -1,7 +1,7 @@
 /* markdown 字体渲染 */
 :root {
     --hhp-font: Sarasa Mono SC;
-    --hhp-shadow: 1.2px;
+    --hhp-shadow: 1.3px;
 }
 * {
     font-family: var(--hhp-font) !important;

@@ -2,7 +2,7 @@
 :root {
     --hhp-font: Maple UI;
     --hhp-code: Maple Mono, var(--hhp-font);
-    --hhp-shadow: 1.2px;
+    --hhp-shadow: 1.3px;
 }
 * {
     font-family: var(--hhp-font) !important;
