@@ -1,0 +1,15 @@
+/* markdown 字体渲染 */
+:root {
+    --hhp-font: Cascadia Code, Sarasa Gothic SC;
+    --hhp-shadow: 1.2px;
+}
+* {
+    font-family: var(--hhp-font) !important;
+    text-shadow: 0 0 var(--hhp-shadow) !important;
+}
+pre,
+code,
+pre *,
+code * {
+    font-family: var(--hhp-font) !important;
+}
