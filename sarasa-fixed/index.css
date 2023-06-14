@@ -6,5 +6,5 @@
 .windows:lang(zh-Hans),
 pre,
 code {
-    font-family: Sarasa Fixed SC;
+    font-family: Sarasa Fixed SC !important;
 }

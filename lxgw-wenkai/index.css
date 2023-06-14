@@ -6,5 +6,5 @@
 .windows:lang(zh-Hans),
 pre,
 code {
-    font-family: LXGW WenKai Mono;
+    font-family: LXGW WenKai Mono !important;
 }

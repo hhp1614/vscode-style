@@ -6,5 +6,5 @@
 .windows:lang(zh-Hans),
 pre,
 code {
-    font-family: Maple Mono, Maple UI;
+    font-family: Maple Mono, Maple UI !important;
 }
