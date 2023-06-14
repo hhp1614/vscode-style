@@ -3,6 +3,8 @@
     text-shadow: 0 0 1.3px !important;
 }
 .windows,
-.windows:lang(zh-Hans) {
-    font-family: Maple UI;
+.windows:lang(zh-Hans),
+pre,
+code {
+    font-family: Maple Mono, Maple UI;
 }

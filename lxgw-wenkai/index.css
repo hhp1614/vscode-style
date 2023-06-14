@@ -3,6 +3,8 @@
     text-shadow: 0 0 1.3px !important;
 }
 .windows,
-.windows:lang(zh-Hans) {
+.windows:lang(zh-Hans),
+pre,
+code {
     font-family: LXGW WenKai Mono;
 }
