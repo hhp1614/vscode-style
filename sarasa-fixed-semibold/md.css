@@ -1,0 +1,16 @@
+/* markdown 字体渲染 */
+:root {
+    --hhp-font: Sarasa Fixed SC;
+    --hhp-shadow: 1.35px;
+}
+* {
+    font-family: var(--hhp-font) !important;
+    font-weight: 500;
+    text-shadow: 0 0 var(--hhp-shadow) !important;
+}
+pre,
+code,
+pre *,
+code * {
+    font-family: var(--hhp-font) !important;
+}
