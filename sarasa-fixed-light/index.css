@@ -1,0 +1,10 @@
+/* vscode 字体渲染 */
+* {
+    text-shadow: 0 0 1.35px !important;
+}
+.windows,
+.windows:lang(zh-Hans),
+pre,
+code {
+    font-family: Sarasa Fixed SC Light !important;
+}

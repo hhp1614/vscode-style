@@ -1,6 +1,6 @@
 /* markdown 字体渲染 */
 :root {
-    --hhp-font: Sarasa Fixed SC Semibold;
+    --hhp-font: Sarasa Fixed SC Light;
 }
 * {
     font-family: var(--hhp-font) !important;
