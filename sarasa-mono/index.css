@@ -1,6 +1,7 @@
 /* vscode 字体渲染 */
 * {
-    text-shadow: 0 0 1.3px !important;
+    text-shadow: 0 0 1.5px !important;
+    font-variant-ligatures: none;
 }
 .windows,
 .windows:lang(zh-Hans),
