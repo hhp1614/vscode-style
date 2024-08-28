@@ -1,7 +1,7 @@
 /* markdown 字体渲染 */
 :root {
     --hhp-font: Maple UI;
-    --hhp-code: Maple Mono, var(--hhp-font);
+    --hhp-code: Maple Mono NF CN, Maple Mono, var(--hhp-font);
     --hhp-shadow: 1.3px;
 }
 * {
