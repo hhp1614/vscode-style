@@ -1,0 +1,10 @@
+* {
+    text-shadow: 0 0 1.5px !important;
+    font-variant-ligatures: none;
+}
+.windows,
+.windows:lang(zh-Hans),
+pre,
+code {
+    font-family: Sarasa Term SC !important;
+}
